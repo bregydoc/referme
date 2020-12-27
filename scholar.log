@@ -1,0 +1,44 @@
+INFO:stem:Error while receiving a control message (ProtocolError): malformed status code/divider, "HTTP/1.0 501 Tor is not an HTTP Proxy\r\n"
+INFO:stem:Error while receiving a control message (ProtocolError): malformed status code/divider, "Content-Type: text/html; charset=iso-8859-1\r\n"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Tor provided a malformed message (Badly formatted reply line: beginning is malformed)
+INFO:stem:Error while receiving a control message (ProtocolError): malformed status code/divider, "HTTP/1.0 501 Tor is not an HTTP Proxy\r\n"
+INFO:stem:Error while receiving a control message (ProtocolError): malformed status code/divider, "Content-Type: text/html; charset=iso-8859-1\r\n"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+DEBUG:stem:System call: tor --version (runtime: 0.06)
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0005)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:System call: tor --version (runtime: 0.08)
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+DEBUG:stem:System call: tor --version (runtime: 0.03)
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+DEBUG:stem:System call: tor --version (runtime: 0.04)
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+DEBUG:stem:System call: tor --version (runtime: 0.07)
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0005)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:System call: tor --version (runtime: 0.04)
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0005)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:System call: tor --version (runtime: 0.03)
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0005)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:System call: tor --version (runtime: 0.09)
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0009)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0005)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:System call: tor --version (runtime: 0.11)
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0006)
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content

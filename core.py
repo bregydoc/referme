@@ -13,3 +13,4 @@ class Publication:
     author: List[str]
     year: str
     references: int
+    url: Optional[str]
