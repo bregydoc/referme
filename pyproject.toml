@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "referme"
+version = "0.1.0"
+description = ""
+authors = ["Bregy Malpartida <bregy.malpartida@utec.edu.pe>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+fastapi = "^0.63.0"
+uvicorn = {extras = ["standard"], version = "^0.13.2"}
+autoscraper = "^1.1.10"
+pydantic = "^1.7.3"
+PyPDF2 = "^1.26.0"
+
+[tool.poetry.dev-dependencies]
+autopep8 = "^1.5.4"
+
+[build-system]
+requires = ["poetry-core>=1.0.0a5"]
+build-backend = "poetry.core.masonry.api"
