@@ -11,6 +11,8 @@ uvicorn = {extras = ["standard"], version = "^0.13.2"}
 autoscraper = "^1.1.10"
 pydantic = "^1.7.3"
 PyPDF2 = "^1.26.0"
+scholarly = "^1.0.2"
+googletrans = "4.0.0rc1"
 
 [tool.poetry.dev-dependencies]
 autopep8 = "^1.5.4"
