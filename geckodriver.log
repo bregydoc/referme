@@ -56,3 +56,22 @@ Exiting due to channel error.
 1609112315198	geckodriver	INFO	Listening on 127.0.0.1:56145
 1609112903237	geckodriver	INFO	Listening on 127.0.0.1:58667
 1609114999358	geckodriver	INFO	Listening on 127.0.0.1:50849
+1609115525135	Marionette	INFO	Stopped listening on port 59087
+1609126070235	geckodriver	INFO	Listening on 127.0.0.1:63079
+1609126232121	geckodriver	INFO	Listening on 127.0.0.1:63758
+1609126890265	geckodriver	INFO	Listening on 127.0.0.1:50051
+1609127031873	geckodriver	INFO	Listening on 127.0.0.1:50656
+1609127042912	geckodriver	INFO	Listening on 127.0.0.1:50713
+1609127431848	geckodriver	INFO	Listening on 127.0.0.1:52317
+1609127677830	geckodriver	INFO	Listening on 127.0.0.1:53341
+1609127765231	geckodriver	INFO	Listening on 127.0.0.1:53720
+1609127778144	geckodriver	INFO	Listening on 127.0.0.1:53786
+1609127815617	geckodriver	INFO	Listening on 127.0.0.1:53953
+1609128014246	geckodriver	INFO	Listening on 127.0.0.1:54778
+1609128935432	geckodriver	INFO	Listening on 127.0.0.1:58521
+1609129016260	geckodriver	INFO	Listening on 127.0.0.1:58874
+1609129027771	geckodriver	INFO	Listening on 127.0.0.1:58935
+1609129336572	geckodriver	INFO	Listening on 127.0.0.1:60239
+1609129577829	geckodriver	INFO	Listening on 127.0.0.1:61246
+1609129589452	geckodriver	INFO	Listening on 127.0.0.1:61303
+1609129602157	geckodriver	INFO	Listening on 127.0.0.1:61368

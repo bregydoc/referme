@@ -47,3 +47,313 @@ DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0005)
 INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
 DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
 INFO:stem:Error while receiving a control message (SocketClosed): received exception "[Errno 9] Bad file descriptor"
+DEBUG:stem:System call: tor --version (runtime: 0.05)
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:System call: tor --version (runtime: 0.04)
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0009)
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+DEBUG:stem:System call: tor --version (runtime: 0.04)
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:System call: tor --version (runtime: 0.07)
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "[Errno 9] Bad file descriptor"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0005)
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0005)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "[Errno 9] Bad file descriptor"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:System call: tor --version (runtime: 0.04)
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0005)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0005)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0005)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0005)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0007)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0005)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "[Errno 9] Bad file descriptor"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "[Errno 9] Bad file descriptor"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
