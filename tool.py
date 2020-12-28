@@ -62,13 +62,13 @@ for s in process:
     publications = find_publications(sentence)
 
     md_doc += f"-   **Pos \[{s.line}:{s.col}\]:** {s.sentence}\n"
-    md_doc += f"**English:** {sentence_in_english.text}\n"
-    md_doc += f"**Publications:**\n"
+    md_doc += f"    **English:** {sentence_in_english.text}\n"
+    md_doc += f"    **Publications:**\n"
 
     publications.sort(key=lambda p: p.references, reverse=True)
 
     for pub in publications:
-        md_doc += f"  -   [{pub.title}]({pub.url}) ({pub.author[0]}, {pub.year}, {pub.references})\n"
+        md_doc += f"    -   [{pub.title}]({pub.url}) ({pub.author[0]}, {pub.year}, {pub.references})\n"
 
     md_doc += "---\n"
 

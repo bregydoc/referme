@@ -42,3 +42,8 @@ INFO:stem:Error while receiving a control message (SocketClosed): received excep
 DEBUG:stem:System call: tor --version (runtime: 0.11)
 DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0006)
 INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+DEBUG:stem:System call: tor --version (runtime: 0.04)
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0005)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "[Errno 9] Bad file descriptor"
